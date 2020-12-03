@@ -7,13 +7,17 @@ Cela va nous permettre de régler les détails et l'interaction avec GitLab.
 
 ### 2ieme étape créer votre branche (remplacer nom-binome par ce qui vous concerne) :
 `git branch "nom-binome"`
+
 `git checkout "Nom-binome"`
 
 ### 3ieme étape transférer votre commit initial
 `git commit -m "notre premiere version"`
+
 `git push --set-upstream origin "Nom-binome"`
 
 ### n-étape
 à chaque fois que vous souhaitez tranférer votre travail :
+
 `git commit -m "explications" fichiers-modifiés`
+
 `git push`
