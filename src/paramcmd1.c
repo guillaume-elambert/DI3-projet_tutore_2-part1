@@ -1,8 +1,18 @@
+/**
+ * \file paramcmd1.c
+ * \brief 3ieme etape du TP IL
+ * \author Loann Duplessis
+ * \author Paul Poitrineau
+ * \author Guillaume Elambert
+ * \version 0.1
+ * \date 08/12/2020
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
 #include <stdlib.h>
-#include "paramcmd1.h"
+#include "../include/paramcmd1.h"
 
 
 /** constante chaine de caracteres pour l'affichage des types */

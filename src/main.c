@@ -11,7 +11,7 @@
 #include <string.h>
 #include <ctype.h>
 #include <stdlib.h>
-#include "paramcmd1.h"
+#include "../include/paramcmd1.h"
 
 /**
  * \fn int main (const int _argc, const char * _argv[])

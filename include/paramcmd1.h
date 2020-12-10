@@ -1,3 +1,13 @@
+/**
+ * \file paramcmd1.h
+ * \brief 3ieme etape du TP IL
+ * \author Loann Duplessis
+ * \author Paul Poitrineau
+ * \author Guillaume Elambert
+ * \version 0.1
+ * \date 08/12/2020
+ */
+
 #ifndef PARAM_CMD_H
 #define PARAM_CMD_H
 
